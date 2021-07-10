@@ -3,22 +3,22 @@
   "Posts": [
     {
       "title": "Labels",
-      "url": "/2020/12/blogger-template-checking-post-labels"
+      "url": "2020/12/blogger-template-checking-post-labels"
     },
     {
       "title": "Filtering Posts",
-      "url": "/2020/06/how-to-filter-blogger-posts-blogger"
+      "url": "2020/06/how-to-filter-blogger-posts-blogger"
     },
     {
       "title": "Date Format",
-      "url": "/2019/01/blogger-template-date-format-function"
+      "url": "2019/01/blogger-template-date-format-function"
     }
   ],
   
   "JavaScript API": [
     {
       "title": "Get Post JSON",
-      "url": "/2019/01/retrieving-json-feeds-of-blogger-posts"
+      "url": "2019/01/retrieving-json-feeds-of-blogger-posts"
     }
   ],
   
