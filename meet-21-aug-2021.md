@@ -3,7 +3,7 @@
 
 Multiplayer survival hide n' seek game
 
-Goal : Playable Game Prototype
+Goal : Playable Game Prototype. Brackeys Game Jam 2021.2 : https://itch.io/jam/brackeys-6
 
 > Timeline : 22-28 aug (1 week)
 
