@@ -1,5 +1,5 @@
 # Haunted Lemon
-
+<img src="https://1.bp.blogspot.com/-Nhc1pM7eOXQ/X0BiafCtGMI/AAAAAAAANPg/D6deHMMuuccYyDlDq8Mfi-afZwmyPcGBgCLcBGAsYHQ/s100/66773032_877684889258401_3684245117129981952_n.jpg">
 Multiplayer survival hide n' seek game
 Goal : Playable Game Prototype
 
@@ -15,6 +15,7 @@ Music/SFX | Paco
 
 ----
 # Blog 
+<img src="https://1.bp.blogspot.com/-Nhc1pM7eOXQ/X0BiafCtGMI/AAAAAAAANPg/D6deHMMuuccYyDlDq8Mfi-afZwmyPcGBgCLcBGAsYHQ/s100/66773032_877684889258401_3684245117129981952_n.jpg">
 Goal : Blog Monetization
 
 > Timeline : Sept 1st - Oct 31st (2 months)
@@ -30,6 +31,7 @@ Blog content :
 
 ---
 # Pixelcaso 
+<img src="https://img.itch.zone/aW1hZ2UvMTEyODAyOC82NTUzNjA2LnBuZw==/347x500/tn%2FUoT.png">
 Goal : Stable desktop release, mobile/table suppport
 
 > Timeline : 29 aug - 18 sep (3 weeks)
@@ -42,6 +44,7 @@ Tester | Paco
 
 ---
 # 2D Social Game World 
+<img src="https://1.bp.blogspot.com/-Nhc1pM7eOXQ/X0BiafCtGMI/AAAAAAAANPg/D6deHMMuuccYyDlDq8Mfi-afZwmyPcGBgCLcBGAsYHQ/s100/66773032_877684889258401_3684245117129981952_n.jpg">
 Goal : Playable Game Prototype, w/ chat system & room
 
 > Timeline : 19 sep - 9 oct (3 weeks)
@@ -54,6 +57,7 @@ Tester | Paco
 
 ---
 # Anti Human 
+![Untitled-1](https://user-images.githubusercontent.com/18110223/130320612-a9b6c006-3dab-440a-9d0a-693d5f5a8915.png)
 Goal : Game Demo
 
 Top down shooting game
